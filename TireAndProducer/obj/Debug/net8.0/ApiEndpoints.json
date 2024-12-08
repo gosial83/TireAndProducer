@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.ProducerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Producer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.ProducerController",
+    "Method": "Add",
+    "RelativePath": "api/Producer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewModel",
+        "Type": "TireAndProducerAPI.ViewModels.ProducerViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.ProducerController",
+    "Method": "GetById",
+    "RelativePath": "api/Producer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.ProducerController",
+    "Method": "Edit",
+    "RelativePath": "api/Producer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "viewModel",
+        "Type": "TireAndProducerAPI.ViewModels.ProducerViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.ProducerController",
+    "Method": "Delete",
+    "RelativePath": "api/Producer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.TireController",
+    "Method": "GetAll",
+    "RelativePath": "api/Tire",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.TireController",
+    "Method": "Add",
+    "RelativePath": "api/Tire",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewModel",
+        "Type": "TireAndProducerAPI.ViewModels.TireViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.TireController",
+    "Method": "GetById",
+    "RelativePath": "api/Tire/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.TireController",
+    "Method": "Edit",
+    "RelativePath": "api/Tire/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "viewModel",
+        "Type": "TireAndProducerAPI.ViewModels.TireViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TireAndProducerAPI.Controllers.TireController",
+    "Method": "Delete",
+    "RelativePath": "api/Tire/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

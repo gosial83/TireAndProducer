@@ -1,0 +1,6 @@
+@TireAndProducer_HostAddress = http://localhost:5084
+
+GET {{TireAndProducer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

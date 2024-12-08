@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C97F71-C23D-4DDF-BAFC-A3D8F6AA40AC}|..\\TestProject1\\TireAndProducerTests.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\testproject1\\tireandproducertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\tireandproducerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:tireandproducerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\viewmodels\\tireviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:viewmodels\\tireviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\viewmodels\\producerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:viewmodels\\producerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\controllers\\tirecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:controllers\\tirecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF65FDD-43D1-4E13-9C0B-29E3DC5849BF}|..\\TireAndProducer.Library\\TireAndProducer.Library.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer.library\\servives\\tireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF65FDD-43D1-4E13-9C0B-29E3DC5849BF}|..\\TireAndProducer.Library\\TireAndProducer.Library.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer.library\\servives\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF65FDD-43D1-4E13-9C0B-29E3DC5849BF}|..\\TireAndProducer.Library\\TireAndProducer.Library.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer.library\\models\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF65FDD-43D1-4E13-9C0B-29E3DC5849BF}|..\\TireAndProducer.Library\\TireAndProducer.Library.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer.library\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF65FDD-43D1-4E13-9C0B-29E3DC5849BF}|..\\TireAndProducer.Library\\TireAndProducer.Library.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer.library\\interfaces\\itireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF65FDD-43D1-4E13-9C0B-29E3DC5849BF}|..\\TireAndProducer.Library\\TireAndProducer.Library.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer.library\\interfaces\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\tireandproducer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:tireandproducer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\tireandproducer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD8A7F34-D683-4342-B0CD-07D42901C000}|TireAndProducerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C97F71-C23D-4DDF-BAFC-A3D8F6AA40AC}|..\\TestProject1\\TireAndProducerTests.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\testproject1\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C97F71-C23D-4DDF-BAFC-A3D8F6AA40AC}|..\\TestProject1\\TireAndProducerTests.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\testproject1\\producerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C97F71-C23D-4DDF-BAFC-A3D8F6AA40AC}|..\\TestProject1\\TireAndProducerTests.csproj|c:\\users\\malgo\\source\\repos\\zadaniatestowe\\zad tire and producer\\testproject1\\producerserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TireAndProducerTests.csproj",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\TireAndProducerTests.csproj",
+              "RelativeDocumentMoniker": "..\\TestProject1\\TireAndProducerTests.csproj",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\TireAndProducerTests.csproj",
+              "RelativeToolTip": "..\\TestProject1\\TireAndProducerTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T22:45:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TireService.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Servives\\TireService.cs",
+              "RelativeDocumentMoniker": "..\\TireAndProducer.Library\\Servives\\TireService.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Servives\\TireService.cs",
+              "RelativeToolTip": "..\\TireAndProducer.Library\\Servives\\TireService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:15:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProducerController.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\Controllers\\ProducerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProducerController.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\Controllers\\ProducerController.cs",
+              "RelativeToolTip": "Controllers\\ProducerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:51:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProducerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\ViewModels\\ProducerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProducerViewModel.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\ViewModels\\ProducerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProducerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:50:21.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:50:05.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "..\\TestProject1\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:13:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProducerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\ProducerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\ProducerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\ProducerIntegrationTest.cs",
+              "RelativeToolTip": "..\\TestProject1\\ProducerIntegrationTest.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:28:09.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProducerServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\ProducerServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\ProducerServiceUnitTests.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TestProject1\\ProducerServiceUnitTests.cs",
+              "RelativeToolTip": "..\\TestProject1\\ProducerServiceUnitTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:36:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:38:48.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TireAndProducerAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\TireAndProducerAPI.csproj",
+              "RelativeDocumentMoniker": "TireAndProducerAPI.csproj",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\TireAndProducerAPI.csproj",
+              "RelativeToolTip": "TireAndProducerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T11:23:25.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TireController.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\Controllers\\TireController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TireController.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\Controllers\\TireController.cs",
+              "RelativeToolTip": "Controllers\\TireController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:38:04.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Servives\\ProducerService.cs",
+              "RelativeDocumentMoniker": "..\\TireAndProducer.Library\\Servives\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Servives\\ProducerService.cs",
+              "RelativeToolTip": "..\\TireAndProducer.Library\\Servives\\ProducerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:26:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITireService.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Interfaces\\ITireService.cs",
+              "RelativeDocumentMoniker": "..\\TireAndProducer.Library\\Interfaces\\ITireService.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Interfaces\\ITireService.cs",
+              "RelativeToolTip": "..\\TireAndProducer.Library\\Interfaces\\ITireService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:38:26.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Interfaces\\IProducerService.cs",
+              "RelativeDocumentMoniker": "..\\TireAndProducer.Library\\Interfaces\\IProducerService.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Interfaces\\IProducerService.cs",
+              "RelativeToolTip": "..\\TireAndProducer.Library\\Interfaces\\IProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:01:09.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TireViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\ViewModels\\TireViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TireViewModel.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\ViewModels\\TireViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TireViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:51:15.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "..\\TireAndProducer.Library\\Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Models\\Producer.cs",
+              "RelativeToolTip": "..\\TireAndProducer.Library\\Models\\Producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:36:44.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Models\\Tire.cs",
+              "RelativeDocumentMoniker": "..\\TireAndProducer.Library\\Models\\Tire.cs",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer.Library\\Models\\Tire.cs",
+              "RelativeToolTip": "..\\TireAndProducer.Library\\Models\\Tire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:32:05.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TireAndProducer.http",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\TireAndProducer.http",
+              "RelativeDocumentMoniker": "TireAndProducer.http",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\TireAndProducer.http",
+              "RelativeToolTip": "TireAndProducer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-08T18:58:34.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\malgo\\source\\repos\\ZadaniaTestowe\\Zad Tire and Producer\\TireAndProducer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T18:58:38.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
