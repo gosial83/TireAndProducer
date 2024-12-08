@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TireAndProducerAPI</name>
+    </assembly>
+    <members>
+        <member name="T:TireAndProducerAPI.Controllers.ProducerController">
+            <summary>
+            Controller responsible for managing producers.
+            </summary>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.ProducerController.#ctor(TireAndProducer.Library.Interfaces.IProducerService,AutoMapper.IMapper)">
+            <summary>
+            Initializes a new instance of the <see cref="T:TireAndProducerAPI.Controllers.ProducerController"/> class.
+            </summary>
+            <param name="producerService">Service for managing producers.</param>
+            <param name="mapper">Mapper for mapping models to view models.</param>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.ProducerController.GetAll">
+            <summary>
+            Retrieves all producers.
+            </summary>
+            <returns>A list of producers.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.ProducerController.GetById(System.Int32)">
+            <summary>
+            Retrieves a producer by ID.
+            </summary>
+            <param name="id">The ID of the producer to retrieve.</param>
+            <returns>The producer with the specified ID.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.ProducerController.Add(TireAndProducerAPI.ViewModels.ProducerViewModel)">
+            <summary>
+            Adds a new producer.
+            </summary>
+            <param name="viewModel">The producer to add.</param>
+            <returns>Result of the operation.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.ProducerController.Edit(System.Int32,TireAndProducerAPI.ViewModels.ProducerViewModel)">
+            <summary>
+            Edits an existing producer.
+            </summary>
+            <param name="id">The ID of the producer to edit.</param>
+            <param name="viewModel">The updated producer data.</param>
+            <returns>Result of the operation.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.ProducerController.Delete(System.Int32)">
+            <summary>
+            Deletes a producer.
+            </summary>
+            <param name="id">The ID of the producer to delete.</param>
+            <returns>Result of the operation.</returns>
+        </member>
+        <member name="T:TireAndProducerAPI.Controllers.TireController">
+            <summary>
+            Controller responsible for managing tires.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:TireAndProducerAPI.Controllers.TireController.#ctor(TireAndProducer.Library.Interfaces.ITireService,AutoMapper.IMapper)" -->
+        <member name="M:TireAndProducerAPI.Controllers.TireController.GetAll">
+            <summary>
+            Retrieves all tires.
+            </summary>
+            <returns>A list of tires.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.TireController.GetById(System.Int32)">
+            <summary>
+            Retrieves a tire by ID.
+            </summary>
+            <param name="id">The ID of the tire to retrieve.</param>
+            <returns>The tire with the specified ID.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.TireController.Add(TireAndProducerAPI.ViewModels.TireViewModel)">
+            <summary>
+            Adds a new tire.
+            </summary>
+            <param name="viewModel">The tire to add.</param>
+            <returns>Result of the operation.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.TireController.Edit(System.Int32,TireAndProducerAPI.ViewModels.TireViewModel)">
+            <summary>
+            Edits an existing tire.
+            </summary>
+            <param name="id">The ID of the tire to edit.</param>
+            <param name="viewModel">The updated tire data.</param>
+            <returns>Result of the operation.</returns>
+        </member>
+        <member name="M:TireAndProducerAPI.Controllers.TireController.Delete(System.Int32)">
+            <summary>
+            Deletes a tire.
+            </summary>
+            <param name="id">The ID of the tire to delete.</param>
+            <returns>Result of the operation.</returns>
+        </member>
+    </members>
+</doc>
